@@ -1,9 +1,9 @@
 {
-  "name": "aineon-enterprise",
+  "name": "aineon-flashloan",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2"
