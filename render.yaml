@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: aineon-enterprise
+    env: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
